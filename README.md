@@ -9,3 +9,8 @@ There is a $2500 prize for each category:
 - Best new yield source integration [see details]()
 
 The PoolTogether Protocol will vote on the winners! POOL holders: make sure you've delegated your votes so that you can participate.
+
+# Links
+
+[PoolTogether documentation](https://docs.pooltogether.com)
+[Prize Pool Builder](https://builder.pooltogether.com)
