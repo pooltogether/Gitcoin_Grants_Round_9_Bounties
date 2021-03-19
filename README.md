@@ -12,5 +12,5 @@ The PoolTogether Protocol will vote on the winners! POOL holders: make sure you'
 
 # Links
 
-[PoolTogether documentation](https://docs.pooltogether.com)
-[Prize Pool Builder](https://builder.pooltogether.com)
+- [PoolTogether documentation](https://docs.pooltogether.com)
+- [Prize Pool Builder](https://builder.pooltogether.com)
