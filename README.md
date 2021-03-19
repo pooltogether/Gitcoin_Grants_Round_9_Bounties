@@ -4,9 +4,9 @@ PoolTogether is awarding $7500 USD in prizes for the [Gitcoin Grants Round 9 Hac
 
 There is a $2500 prize for each category:
 
-- Most creative integration [see details]()
-- Best new prize strategy [see details]()
-- Best new yield source integration [see details]()
+- Most creative integration [see details](https://github.com/pooltogether/Gitcoin_Grants_Round_9_Bounties/issues/1)
+- Best L2 integration [see details](https://github.com/pooltogether/Gitcoin_Grants_Round_9_Bounties/issues/2)
+- Best new prize strategy [see details](https://github.com/pooltogether/Gitcoin_Grants_Round_9_Bounties/issues/3)
 
 The PoolTogether Protocol will vote on the winners! POOL holders: make sure you've delegated your votes so that you can participate.
 
