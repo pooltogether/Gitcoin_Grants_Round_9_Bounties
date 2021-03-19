@@ -12,5 +12,7 @@ The PoolTogether Protocol will vote on the winners! POOL holders: make sure you'
 
 # Links
 
+- [Yield Source Interface](https://github.com/pooltogether/yield-source-interface)
+- [Token Listener Interface](https://github.com/pooltogether/token-listener-interface)
 - [PoolTogether documentation](https://docs.pooltogether.com)
 - [Prize Pool Builder](https://builder.pooltogether.com)
